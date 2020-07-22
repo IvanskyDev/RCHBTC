@@ -1,0 +1,4 @@
+```shell
+    Running tests: crypto_tests from test/crypto_tests.cpp
+    [...]
+    Running tests: key_properties from test/key_properties.cpp
